@@ -1,0 +1,6 @@
+*.xml.gz
+*.xml.gz:Zone.Identifier
+*.log
+*.exe
+
+./Search-Engine
